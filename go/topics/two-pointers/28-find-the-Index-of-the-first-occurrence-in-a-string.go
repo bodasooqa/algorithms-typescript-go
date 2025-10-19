@@ -1,0 +1,1 @@
+../../leetcode/28-find-the-Index-of-the-first-occurrence-in-a-string.go
